@@ -142,7 +142,7 @@ section.sec1 a:hover, section.sec6 a:hover{
 .slide_prev_button, .slide_next_button{
     position: absolute;
     z-index: 1;
-    top: 60%;
+    top: 50%;
     cursor: pointer;
 }
 .slide_prev_button{
@@ -152,7 +152,7 @@ section.sec1 a:hover, section.sec6 a:hover{
     right: -24px;
 }
 .slider-int > div {
-    margin-left: 40px;
+    margin: 0 12px;
 }
 .slider-int .slick-slide{
     width: 265px;
